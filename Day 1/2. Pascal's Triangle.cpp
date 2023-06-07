@@ -1,8 +1,9 @@
+#include "bits/stdc++.h"
+using namespace std;
 class Solution
 {
 public:
-    vector<vector<int>> generate(int numRows)
-    {
+    vector<vector<int>> generate(int numRows) {
         vector<vector<int>> pascalsTriangle = {{1}};
 
         for (int row = 1; row < numRows; row++)
