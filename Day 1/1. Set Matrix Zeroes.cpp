@@ -22,8 +22,6 @@ public:
     void setZeroes(vector<vector<int>> &matrix)
     {
         queue<pair<int, int>> zeroPos;
-        vector<int> dx = {-1, 0, 1, 0};
-        vector<int> dy = {0, -1, 0, 1};
 
         int n = matrix.size();
         int m = matrix[0].size();
