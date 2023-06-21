@@ -1,8 +1,0 @@
-{
-  "files.associations": {
-    "*.c": "c",
-    "*.sol": "solidity",
-    "vector": "cpp",
-    "stack": "cpp"
-  }
-}
