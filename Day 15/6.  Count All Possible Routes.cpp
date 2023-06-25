@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/repeated-string-match/description/
 
-#include <bits/stdc++.>
+#include <bits/stdc++.h>
 using namespace std;
 
 
