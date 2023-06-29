@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.c": "c",
+    "*.sol": "solidity",
+    "array": "cpp",
+    "vector": "cpp",
+    "xstring": "cpp",
+    "xutility": "cpp"
+  }
+}
